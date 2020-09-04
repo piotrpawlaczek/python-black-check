@@ -26,11 +26,13 @@ Include this in your `.github/workflows/main.yaml`:
 
 ```yaml
 uses: piotrpawlaczek/python-blacken@release/stable
+
 ```
 or, if you want to override any of the defaults,
 
 ```yaml
 uses: piotrpawlaczek/python-blacken@release/stable
+
 with:
   line-length: '88'
   path: '.'
