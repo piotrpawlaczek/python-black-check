@@ -2,7 +2,7 @@
 
 A customisable GitHub action to check the style of Python code with [black](https://github.com/psf/black).
 
-Uses black version **22.1.0**
+Uses black version **22.3.0**
 
 # Inputs
 You can use inputs to alter how `black` will check your code.
